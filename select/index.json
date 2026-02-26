@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "FIGHTING!",
+  "base_artist": "CODY",
+  "createdAt": "2026-02-26T12:46:41.411067Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fighting Side of Me",
+      "artist": "Merle Haggard",
+      "has_synced": false,
+      "path": "select/01_Fighting_Side_of_Me_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fighting In Built Up Areas (Live)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/02_Fighting_In_Built_Up_Areas_(Live)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fighting In Built Up Areas (Live At London Astoria 16.07.08)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/03_Fighting_In_Built_Up_Areas_(Live_At_London_Astoria_16.07.08)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fighting In Built Up Areas",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/04_Fighting_In_Built_Up_Areas_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fighting Is Futile",
+      "artist": "Matthew Dear",
+      "has_synced": true,
+      "path": "select/05_Fighting_Is_Futile_Matthew_Dear.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Street Fighting Man",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/06_Street_Fighting_Man_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fighting Me",
+      "artist": "$Not",
+      "has_synced": true,
+      "path": "select/07_Fighting_Me_$Not.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Do You Know What You Are Fighting For",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/08_Do_You_Know_What_You_Are_Fighting_For_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Relax (Come Fighting)",
+      "artist": "Frankie Goes to Hollywood",
+      "has_synced": true,
+      "path": "select/09_Relax_(Come_Fighting)_Frankie_Goes_to_Hollywood.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Height Of The Fighting - 2006 Digital Remaster",
+      "artist": "Heaven 17",
+      "has_synced": true,
+      "path": "select/10_The_Height_Of_The_Fighting_-_2006_Digital_Remaster_Heaven_17.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Height Of The Fighting (2006 Digital Remaster)",
+      "artist": "Heaven 17",
+      "has_synced": true,
+      "path": "select/11_The_Height_Of_The_Fighting_(2006_Digital_Remaster)_Heaven_17.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Girls Are Fighting",
+      "artist": "Bloc Party",
+      "has_synced": true,
+      "path": "select/12_The_Girls_Are_Fighting_Bloc_Party.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fighting Man",
+      "artist": "UFO",
+      "has_synced": true,
+      "path": "select/13_Fighting_Man_UFO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fighting!",
+      "artist": "Cody",
+      "has_synced": false,
+      "path": "select/pl_01_Fighting!_Cody.txt"
+    }
+  ]
+}
