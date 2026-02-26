@@ -1,0 +1,29 @@
+# CODY – FIGHTING!
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Pounding in my chest
+Shattered pieces my heart
+I am coming after you
+I am losing my resistance
+Baby baby oh
+I gotta a cause to fighting for
+And my blood is running fast
+My fever is high
+Just one more try
+Fighting
+Going down for fighting
+Can't you hear me screaming
+Fighting through the night
+Born to be a winner
+Fighting
+Born to be a fighter
+Can't you see me bleeding
+Fighting through the night
+The night the night
+You don't have to cry
+Sadness is filling your eyes
+I am taking care of you
+I am taking on the war now
+```
